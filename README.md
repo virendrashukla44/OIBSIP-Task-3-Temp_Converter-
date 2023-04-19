@@ -1,7 +1,7 @@
 
-# Personal Portfolio
+# Temperature Converter 
 
-This is a Portfolio Webpage made using html and css. It consists of 5 sections Home, About, Skills, Projects, Contact..
+This is a Temperature Converter application made using Html, Css and Javascript. It takes a Temperature as input in celsius/ Fahrenheit and convert it into Fahrenheit/Celsius.
 
 
 ## Authors
